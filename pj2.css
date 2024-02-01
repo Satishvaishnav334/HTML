@@ -1,0 +1,26 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    text-align: center;
+    height: 200px;
+    width: 50px;
+    background-color: aqua;
+    color: rgb(12, 23, 23);
+    border-color: blue;
+    border-style: dotted;
+    border-width: 2px;
+    
+    font-size: 25px;
+}
+#inner{
+    height: 5000px;
+    width: 6000px;
+    background-color: azure;
+    text-align: end;
+    font-size: 10px;
+}
