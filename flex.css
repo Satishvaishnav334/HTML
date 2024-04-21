@@ -1,0 +1,42 @@
+
+body{
+    text-align: center;
+    
+}
+    #container{
+   height: 200px;
+   width: 800px; 
+   display: flex;
+    
+   
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#id1{
+    
+    background-color: burlywood;
+    
+}
+#id2{
+    background-color: burlywood;
+}
+#id3{
+    
+    background-color: burlywood;
+   
+}
+#id4{
+    
+    background-color: burlywood;
+  
+}
+#id5{
+    
+    background-color: burlywood;
+   
+}

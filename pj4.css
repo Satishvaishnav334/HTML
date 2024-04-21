@@ -1,0 +1,29 @@
+div{
+    height: 405px;
+    width: 150px;
+    background-color: black;
+.a{
+    height: 125px; 
+    width: 130px;  
+    margin: 10px;
+    margin-bottom: 10px;
+    /* background-color: green; */
+    border-radius:52% ;
+}
+
+#a{
+    background-color: #940a0af9;
+    padding-bottom: 2px;
+    margin-top: 2px;
+}
+
+#b{
+    background-color: #fbf7f7f9;
+    padding-bottom: 2px;
+    margin-top: 2px;
+}
+#c{
+    background-color: #1da21d;
+    padding-bottom: 2px;
+    margin-top: 2px;
+}
